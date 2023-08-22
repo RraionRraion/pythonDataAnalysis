@@ -9,7 +9,7 @@
 project = 'pythonDataAnalysis'
 copyright = '2023, Rraion'
 author = 'Rraion'
-release = 'v0.1'
+release = 'v0.1' 
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
